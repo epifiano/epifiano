@@ -1,6 +1,6 @@
 # asha
 
-Hello my name is __Javier Rojas__.
+Hello my name is _Javier Rojas_.
 
 I am *Freelancer* and *Software Engineer*.
 
